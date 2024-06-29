@@ -1,0 +1,451 @@
+gender,description,provided_symptoms,priority_status
+Female,"I was at work and suddenly felt bleeding, indigestion, vomiting, broken leg, back pain.","['bleeding', 'indigestion', 'vomiting', 'broken leg', 'back pain']",non-priority
+Female,"I was at the gym when I started to feel broken arm, vomiting, bleeding.","['broken arm', 'vomiting', 'bleeding']",non-priority
+Female,"I was driving when I started to feel jaw pain, nausea, broken arm.","['jaw pain', 'nausea', 'broken arm']",non-priority
+Female,"While walking, I experienced nausea, bleeding, broken leg, broken arm, sweating.","['nausea', 'bleeding', 'broken leg', 'broken arm', 'sweating']",non-priority
+Male,"I was sitting at home when I felt indigestion, broken arm, sweating.","['indigestion', 'broken arm', 'sweating']",non-priority
+Male,"I the lase few hours, I have been feelingsweating, broken arm, bleeding.","['sweating', 'broken arm', 'bleeding']",non-priority
+Male,"I was at the gym when I started to feel broken arm, headache.","['broken arm', 'headache']",non-priority
+Male,"I was at work and suddenly felt headache, broken arm, jaw pain, back pain.","['headache', 'broken arm', 'jaw pain', 'back pain']",non-priority
+Male,"I the lase few hours, I have been feelingbroken arm, sweating, nausea.","['broken arm', 'sweating', 'nausea']",non-priority
+Female,"For the past few days, I have been experiencingback pain, sweating, broken arm, broken leg.","['back pain', 'sweating', 'broken arm', 'broken leg']",non-priority
+Female,"My mom insisted me to come and see you because ofheadache, broken leg, back pain, broken arm, bleeding.","['headache', 'broken leg', 'back pain', 'broken arm', 'bleeding']",non-priority
+Male,"I woke up from a nap and started feeling back pain, bleeding, headache.","['back pain', 'bleeding', 'headache']",non-priority
+Male,"I woke up from a nap and started feeling bleeding, back pain.","['bleeding', 'back pain']",non-priority
+Female,"I was driving when I started to feel jaw pain, nausea.","['jaw pain', 'nausea']",non-priority
+Female,"I was sitting at home when I felt vomiting, indigestion.","['vomiting', 'indigestion']",non-priority
+Female,"For the past few days, I have been experiencingindigestion, jaw pain, broken leg, sweating, nausea.","['indigestion', 'jaw pain', 'broken leg', 'sweating', 'nausea']",non-priority
+Female,"I woke up from a nap and started feeling bleeding, indigestion.","['bleeding', 'indigestion']",non-priority
+Female,"I was driving when I started to feel headache, broken leg, bleeding.","['headache', 'broken leg', 'bleeding']",non-priority
+Male,"For the past few days, I have been experiencingbroken arm, bleeding.","['broken arm', 'bleeding']",non-priority
+Female,"While walking, I experienced sweating, broken leg, back pain, indigestion.","['sweating', 'broken leg', 'back pain', 'indigestion']",non-priority
+Male,"My mom insisted me to come and see you because ofbroken arm, jaw pain.","['broken arm', 'jaw pain']",non-priority
+Female,"While walking, I experienced broken leg, bleeding, vomiting, broken arm.","['broken leg', 'bleeding', 'vomiting', 'broken arm']",non-priority
+Female,"I the lase few hours, I have been feelingheadache, jaw pain, bleeding, broken leg, broken arm.","['headache', 'jaw pain', 'bleeding', 'broken leg', 'broken arm']",non-priority
+Male,"I was at work and suddenly felt back pain, broken leg, bleeding.","['back pain', 'broken leg', 'bleeding']",non-priority
+Male,"Me and my friend were playing football when I feltbroken arm, headache, jaw pain, bleeding.","['broken arm', 'headache', 'jaw pain', 'bleeding']",non-priority
+Male,"I was sitting at home when I felt broken arm, bleeding, vomiting, indigestion, nausea.","['broken arm', 'bleeding', 'vomiting', 'indigestion', 'nausea']",non-priority
+Female,"I the lase few hours, I have been feelingvomiting, bleeding, jaw pain.","['vomiting', 'bleeding', 'jaw pain']",non-priority
+Male,"For the past few days, I have been experiencingindigestion, back pain.","['indigestion', 'back pain']",non-priority
+Female,"I was at work and suddenly felt sweating, indigestion, back pain, headache.","['sweating', 'indigestion', 'back pain', 'headache']",non-priority
+Male,"I was sitting at home when I felt nausea, back pain.","['nausea', 'back pain']",non-priority
+Female,"While walking, I experienced broken arm, back pain, vomiting, sweating.","['broken arm', 'back pain', 'vomiting', 'sweating']",non-priority
+Female,"I was at work and suddenly felt indigestion, nausea, broken leg, jaw pain, broken arm.","['indigestion', 'nausea', 'broken leg', 'jaw pain', 'broken arm']",non-priority
+Female,"I was sitting at home when I felt vomiting, jaw pain, back pain, sweating, broken arm.","['vomiting', 'jaw pain', 'back pain', 'sweating', 'broken arm']",non-priority
+Female,"Me and my friend were playing football when I feltjaw pain, headache, broken leg, vomiting, back pain.","['jaw pain', 'headache', 'broken leg', 'vomiting', 'back pain']",non-priority
+Male,"I the lase few hours, I have been feelingheadache, vomiting, nausea, jaw pain.","['headache', 'vomiting', 'nausea', 'jaw pain']",non-priority
+Female,"I the lase few hours, I have been feelingnausea, broken arm.","['nausea', 'broken arm']",non-priority
+Male,"While walking, I experienced bleeding, sweating, broken leg, back pain.","['bleeding', 'sweating', 'broken leg', 'back pain']",non-priority
+Male,"I the lase few hours, I have been feelingback pain, bleeding.","['back pain', 'bleeding']",non-priority
+Male,"I was driving when I started to feel indigestion, vomiting.","['indigestion', 'vomiting']",non-priority
+Male,"For the past few days, I have been experiencingback pain, sweating.","['back pain', 'sweating']",non-priority
+Female,"I was driving when I started to feel sweating, bleeding, indigestion.","['sweating', 'bleeding', 'indigestion']",non-priority
+Female,"I was sitting at home when I felt bleeding, nausea.","['bleeding', 'nausea']",non-priority
+Male,"For the past few days, I have been experiencingvomiting, bleeding, indigestion, jaw pain, sweating.","['vomiting', 'bleeding', 'indigestion', 'jaw pain', 'sweating']",non-priority
+Male,"While walking, I experienced back pain, broken arm, jaw pain.","['back pain', 'broken arm', 'jaw pain']",non-priority
+Male,"My mom insisted me to come and see you because ofindigestion, bleeding.","['indigestion', 'bleeding']",non-priority
+Male,"Me and my friend were playing football when I feltbroken arm, nausea, sweating.","['broken arm', 'nausea', 'sweating']",non-priority
+Female,"I the lase few hours, I have been feelingjaw pain, sweating, broken arm, back pain.","['jaw pain', 'sweating', 'broken arm', 'back pain']",non-priority
+Female,"I woke up from a nap and started feeling broken arm, back pain, broken leg, jaw pain, bleeding.","['broken arm', 'back pain', 'broken leg', 'jaw pain', 'bleeding']",non-priority
+Female,"For the past few days, I have been experiencingjaw pain, nausea, back pain.","['jaw pain', 'nausea', 'back pain']",non-priority
+Male,"I was at work and suddenly felt back pain, broken leg.","['back pain', 'broken leg']",non-priority
+Female,"I the lase few hours, I have been feelingindigestion, broken arm, bleeding.","['indigestion', 'broken arm', 'bleeding']",non-priority
+Female,"I woke up from a nap and started feeling vomiting, headache, broken arm.","['vomiting', 'headache', 'broken arm']",non-priority
+Female,"I the lase few hours, I have been feelingsweating, bleeding, back pain, broken leg.","['sweating', 'bleeding', 'back pain', 'broken leg']",non-priority
+Male,"I was at the gym when I started to feel nausea, broken arm, bleeding, back pain, vomiting.","['nausea', 'broken arm', 'bleeding', 'back pain', 'vomiting']",non-priority
+Male,"Me and my friend were playing football when I feltback pain, jaw pain.","['back pain', 'jaw pain']",non-priority
+Female,"For the past few days, I have been experiencingvomiting, jaw pain, bleeding, broken arm, sweating.","['vomiting', 'jaw pain', 'bleeding', 'broken arm', 'sweating']",non-priority
+Male,"I was sitting at home when I felt indigestion, broken leg.","['indigestion', 'broken leg']",non-priority
+Male,"While walking, I experienced headache, jaw pain, sweating, bleeding.","['headache', 'jaw pain', 'sweating', 'bleeding']",non-priority
+Female,"I was at the gym when I started to feel headache, nausea, vomiting.","['headache', 'nausea', 'vomiting']",non-priority
+Male,"I woke up from a nap and started feeling nausea, bleeding, sweating, jaw pain, broken arm.","['nausea', 'bleeding', 'sweating', 'jaw pain', 'broken arm']",non-priority
+Female,"I was at work and suddenly felt broken leg, broken arm.","['broken leg', 'broken arm']",non-priority
+Male,"My mom insisted me to come and see you because ofjaw pain, nausea, indigestion, vomiting.","['jaw pain', 'nausea', 'indigestion', 'vomiting']",non-priority
+Male,"I was driving when I started to feel broken leg, broken arm.","['broken leg', 'broken arm']",non-priority
+Male,"I was sitting at home when I felt nausea, sweating.","['nausea', 'sweating']",non-priority
+Female,"I was sitting at home when I felt indigestion, broken arm, nausea, jaw pain.","['indigestion', 'broken arm', 'nausea', 'jaw pain']",non-priority
+Male,"I was driving when I started to feel bleeding, broken leg.","['bleeding', 'broken leg']",non-priority
+Male,"I was sitting at home when I felt back pain, headache, jaw pain, sweating.","['back pain', 'headache', 'jaw pain', 'sweating']",non-priority
+Male,"I was at the gym when I started to feel headache, jaw pain, bleeding, broken leg.","['headache', 'jaw pain', 'bleeding', 'broken leg']",non-priority
+Female,"I the lase few hours, I have been feelingindigestion, jaw pain, broken leg.","['indigestion', 'jaw pain', 'broken leg']",non-priority
+Female,"Me and my friend were playing football when I feltindigestion, broken leg, nausea, broken arm, sweating.","['indigestion', 'broken leg', 'nausea', 'broken arm', 'sweating']",non-priority
+Female,"My mom insisted me to come and see you because ofbroken leg, vomiting, broken arm.","['broken leg', 'vomiting', 'broken arm']",non-priority
+Female,"I was driving when I started to feel vomiting, broken leg.","['vomiting', 'broken leg']",non-priority
+Male,"I was sitting at home when I felt back pain, sweating, jaw pain.","['back pain', 'sweating', 'jaw pain']",non-priority
+Male,"I woke up from a nap and started feeling sweating, nausea, vomiting, broken arm, indigestion.","['sweating', 'nausea', 'vomiting', 'broken arm', 'indigestion']",non-priority
+Male,"I the lase few hours, I have been feelingjaw pain, broken arm, indigestion.","['jaw pain', 'broken arm', 'indigestion']",non-priority
+Female,"I was at work and suddenly felt headache, sweating.","['headache', 'sweating']",non-priority
+Male,"I was driving when I started to feel headache, broken arm, vomiting, jaw pain, bleeding.","['headache', 'broken arm', 'vomiting', 'jaw pain', 'bleeding']",non-priority
+Male,"I woke up from a nap and started feeling nausea, indigestion.","['nausea', 'indigestion']",non-priority
+Male,"For the past few days, I have been experiencingbroken arm, nausea, jaw pain.","['broken arm', 'nausea', 'jaw pain']",non-priority
+Male,"I was driving when I started to feel broken leg, indigestion.","['broken leg', 'indigestion']",non-priority
+Male,"I the lase few hours, I have been feelingnausea, back pain.","['nausea', 'back pain']",non-priority
+Female,"For the past few days, I have been experiencingvomiting, sweating, back pain.","['vomiting', 'sweating', 'back pain']",non-priority
+Male,"Me and my friend were playing football when I feltsweating, back pain, bleeding, vomiting, indigestion.","['sweating', 'back pain', 'bleeding', 'vomiting', 'indigestion']",non-priority
+Female,"I the lase few hours, I have been feelingbroken leg, indigestion, jaw pain, headache.","['broken leg', 'indigestion', 'jaw pain', 'headache']",non-priority
+Male,"My mom insisted me to come and see you because ofbleeding, headache, jaw pain.","['bleeding', 'headache', 'jaw pain']",non-priority
+Male,"My mom insisted me to come and see you because ofbleeding, jaw pain, broken leg.","['bleeding', 'jaw pain', 'broken leg']",non-priority
+Female,"I the lase few hours, I have been feelingbleeding, nausea, sweating, back pain.","['bleeding', 'nausea', 'sweating', 'back pain']",non-priority
+Female,"While walking, I experienced indigestion, back pain, sweating.","['indigestion', 'back pain', 'sweating']",non-priority
+Female,"I was driving when I started to feel broken arm, jaw pain, back pain, vomiting.","['broken arm', 'jaw pain', 'back pain', 'vomiting']",non-priority
+Female,"I was sitting at home when I felt broken arm, bleeding, nausea.","['broken arm', 'bleeding', 'nausea']",non-priority
+Male,"While walking, I experienced indigestion, sweating, bleeding, back pain.","['indigestion', 'sweating', 'bleeding', 'back pain']",non-priority
+Male,"I woke up from a nap and started feeling broken leg, jaw pain.","['broken leg', 'jaw pain']",non-priority
+Male,"I was at the gym when I started to feel vomiting, sweating, nausea, headache.","['vomiting', 'sweating', 'nausea', 'headache']",non-priority
+Male,"I woke up from a nap and started feeling back pain, headache, broken arm, vomiting, nausea.","['back pain', 'headache', 'broken arm', 'vomiting', 'nausea']",non-priority
+Male,"My mom insisted me to come and see you because ofindigestion, back pain, broken arm, nausea, broken leg.","['indigestion', 'back pain', 'broken arm', 'nausea', 'broken leg']",non-priority
+Male,"I was at work and suddenly felt headache, broken arm, sweating, jaw pain.","['headache', 'broken arm', 'sweating', 'jaw pain']",non-priority
+Female,"I was at the gym when I started to feel vomiting, broken arm.","['vomiting', 'broken arm']",non-priority
+Female,"Me and my friend were playing football when I feltbleeding, jaw pain, back pain, nausea, headache.","['bleeding', 'jaw pain', 'back pain', 'nausea', 'headache']",non-priority
+Female,"I woke up from a nap and started feeling jaw pain, broken leg, broken arm, sweating, headache.","['jaw pain', 'broken leg', 'broken arm', 'sweating', 'headache']",non-priority
+Female,"My mom insisted me to come and see you because ofjaw pain, nausea, broken leg, back pain, broken arm.","['jaw pain', 'nausea', 'broken leg', 'back pain', 'broken arm']",non-priority
+Female,"I woke up from a nap and started feeling jaw pain, broken arm, bleeding, back pain.","['jaw pain', 'broken arm', 'bleeding', 'back pain']",non-priority
+Female,"While walking, I experienced indigestion, bleeding.","['indigestion', 'bleeding']",non-priority
+Male,"I was at work and suddenly felt broken arm, indigestion.","['broken arm', 'indigestion']",non-priority
+Female,"I was at the gym when I started to feel sweating, broken leg, nausea, indigestion, broken arm.","['sweating', 'broken leg', 'nausea', 'indigestion', 'broken arm']",non-priority
+Male,"I was at the gym when I started to feel vomiting, jaw pain, bleeding, back pain, nausea.","['vomiting', 'jaw pain', 'bleeding', 'back pain', 'nausea']",non-priority
+Female,"I the lase few hours, I have been feelingbroken arm, sweating, vomiting, headache, nausea.","['broken arm', 'sweating', 'vomiting', 'headache', 'nausea']",non-priority
+Male,"I woke up from a nap and started feeling headache, broken arm.","['headache', 'broken arm']",non-priority
+Male,"I was driving when I started to feel indigestion, bleeding, headache.","['indigestion', 'bleeding', 'headache']",non-priority
+Male,"I was sitting at home when I felt broken arm, jaw pain, back pain.","['broken arm', 'jaw pain', 'back pain']",non-priority
+Male,"Me and my friend were playing football when I feltbroken leg, back pain, jaw pain.","['broken leg', 'back pain', 'jaw pain']",non-priority
+Male,"For the past few days, I have been experiencingbroken leg, headache, back pain, sweating, broken arm.","['broken leg', 'headache', 'back pain', 'sweating', 'broken arm']",non-priority
+Female,"I was sitting at home when I felt vomiting, indigestion, sweating, broken arm, jaw pain.","['vomiting', 'indigestion', 'sweating', 'broken arm', 'jaw pain']",non-priority
+Male,"I the lase few hours, I have been feelingback pain, broken arm.","['back pain', 'broken arm']",non-priority
+Female,"For the past few days, I have been experiencingnausea, broken leg, headache, bleeding, sweating.","['nausea', 'broken leg', 'headache', 'bleeding', 'sweating']",non-priority
+Male,"I was sitting at home when I felt broken leg, jaw pain, nausea, indigestion, back pain.","['broken leg', 'jaw pain', 'nausea', 'indigestion', 'back pain']",non-priority
+Female,"I the lase few hours, I have been feelingnausea, headache, sweating.","['nausea', 'headache', 'sweating']",non-priority
+Male,"I the lase few hours, I have been feelingbroken leg, bleeding, jaw pain, back pain.","['broken leg', 'bleeding', 'jaw pain', 'back pain']",non-priority
+Female,"I the lase few hours, I have been feelingjaw pain, back pain, headache, sweating, nausea.","['jaw pain', 'back pain', 'headache', 'sweating', 'nausea']",non-priority
+Male,"I was at work and suddenly felt sweating, vomiting, headache, indigestion.","['sweating', 'vomiting', 'headache', 'indigestion']",non-priority
+Male,"My mom insisted me to come and see you because ofheadache, indigestion, vomiting.","['headache', 'indigestion', 'vomiting']",non-priority
+Female,"My mom insisted me to come and see you because ofsweating, jaw pain, indigestion, nausea.","['sweating', 'jaw pain', 'indigestion', 'nausea']",non-priority
+Female,"Me and my friend were playing football when I feltbroken leg, bleeding.","['broken leg', 'bleeding']",non-priority
+Male,"My mom insisted me to come and see you because ofvomiting, bleeding.","['vomiting', 'bleeding']",non-priority
+Male,"My mom insisted me to come and see you because ofbroken leg, vomiting, nausea.","['broken leg', 'vomiting', 'nausea']",non-priority
+Female,"While walking, I experienced headache, indigestion, broken arm, broken leg.","['headache', 'indigestion', 'broken arm', 'broken leg']",non-priority
+Female,"I woke up from a nap and started feeling indigestion, broken arm.","['indigestion', 'broken arm']",non-priority
+Female,"I was sitting at home when I felt bleeding, broken arm, vomiting, back pain.","['bleeding', 'broken arm', 'vomiting', 'back pain']",non-priority
+Female,"I the lase few hours, I have been feelingheadache, back pain.","['headache', 'back pain']",non-priority
+Female,"For the past few days, I have been experiencingbroken arm, nausea, vomiting.","['broken arm', 'nausea', 'vomiting']",non-priority
+Female,"My mom insisted me to come and see you because ofvomiting, nausea, bleeding.","['vomiting', 'nausea', 'bleeding']",non-priority
+Female,"I woke up from a nap and started feeling jaw pain, bleeding, broken leg, back pain.","['jaw pain', 'bleeding', 'broken leg', 'back pain']",non-priority
+Male,"I woke up from a nap and started feeling nausea, headache, indigestion, bleeding, broken arm.","['nausea', 'headache', 'indigestion', 'bleeding', 'broken arm']",non-priority
+Male,"I was driving when I started to feel vomiting, bleeding, broken arm, nausea, broken leg.","['vomiting', 'bleeding', 'broken arm', 'nausea', 'broken leg']",non-priority
+Male,"My mom insisted me to come and see you because ofback pain, vomiting, sweating, jaw pain.","['back pain', 'vomiting', 'sweating', 'jaw pain']",non-priority
+Male,"For the past few days, I have been experiencingback pain, nausea, headache, broken leg, indigestion.","['back pain', 'nausea', 'headache', 'broken leg', 'indigestion']",non-priority
+Female,"I was driving when I started to feel headache, back pain, nausea, broken leg, vomiting.","['headache', 'back pain', 'nausea', 'broken leg', 'vomiting']",non-priority
+Female,"I was at the gym when I started to feel headache, bleeding, sweating, indigestion.","['headache', 'bleeding', 'sweating', 'indigestion']",non-priority
+Male,"I was sitting at home when I felt broken arm, back pain, indigestion.","['broken arm', 'back pain', 'indigestion']",non-priority
+Male,"I the lase few hours, I have been feelingindigestion, broken leg, bleeding, broken arm.","['indigestion', 'broken leg', 'bleeding', 'broken arm']",non-priority
+Male,"While walking, I experienced sweating, jaw pain, broken arm.","['sweating', 'jaw pain', 'broken arm']",non-priority
+Male,"I was driving when I started to feel headache, sweating, indigestion.","['headache', 'sweating', 'indigestion']",non-priority
+Female,"I was driving when I started to feel sweating, back pain, indigestion.","['sweating', 'back pain', 'indigestion']",non-priority
+Female,"Me and my friend were playing football when I feltheadache, bleeding.","['headache', 'bleeding']",non-priority
+Female,"I woke up from a nap and started feeling back pain, broken arm, broken leg.","['back pain', 'broken arm', 'broken leg']",non-priority
+Male,"I woke up from a nap and started feeling back pain, nausea, vomiting, bleeding.","['back pain', 'nausea', 'vomiting', 'bleeding']",non-priority
+Male,"I was at work and suddenly felt broken leg, vomiting, back pain, sweating, indigestion.","['broken leg', 'vomiting', 'back pain', 'sweating', 'indigestion']",non-priority
+Female,"I was sitting at home when I felt headache, broken arm, nausea, sweating.","['headache', 'broken arm', 'nausea', 'sweating']",non-priority
+Male,"For the past few days, I have been experiencingjaw pain, back pain.","['jaw pain', 'back pain']",non-priority
+Male,"I woke up from a nap and started feeling headache, back pain, jaw pain, broken leg, broken arm.","['headache', 'back pain', 'jaw pain', 'broken leg', 'broken arm']",non-priority
+Male,"I was at the gym when I started to feel vomiting, sweating.","['vomiting', 'sweating']",non-priority
+Male,"Me and my friend were playing football when I feltbroken leg, nausea, broken arm.","['broken leg', 'nausea', 'broken arm']",non-priority
+Female,"I woke up from a nap and started feeling jaw pain, bleeding.","['jaw pain', 'bleeding']",non-priority
+Female,"I was driving when I started to feel nausea, indigestion.","['nausea', 'indigestion']",non-priority
+Male,"I the lase few hours, I have been feelingheadache, nausea, vomiting, bleeding, broken leg.","['headache', 'nausea', 'vomiting', 'bleeding', 'broken leg']",non-priority
+Male,"Me and my friend were playing football when I feltjaw pain, sweating, back pain, bleeding, broken leg.","['jaw pain', 'sweating', 'back pain', 'bleeding', 'broken leg']",non-priority
+Male,"I was driving when I started to feel broken leg, back pain, bleeding, headache.","['broken leg', 'back pain', 'bleeding', 'headache']",non-priority
+Female,"I was at the gym when I started to feel jaw pain, back pain.","['jaw pain', 'back pain']",non-priority
+Male,"I was driving when I started to feel jaw pain, nausea, headache, sweating.","['jaw pain', 'nausea', 'headache', 'sweating']",non-priority
+Male,"My mom insisted me to come and see you because ofsweating, vomiting.","['sweating', 'vomiting']",non-priority
+Female,"I was at the gym when I started to feel indigestion, back pain, nausea, bleeding.","['indigestion', 'back pain', 'nausea', 'bleeding']",non-priority
+Male,"While walking, I experienced headache, broken arm, jaw pain, nausea, broken leg.","['headache', 'broken arm', 'jaw pain', 'nausea', 'broken leg']",non-priority
+Male,"While walking, I experienced nausea, indigestion.","['nausea', 'indigestion']",non-priority
+Female,"I was sitting at home when I felt sweating, nausea, jaw pain, indigestion, broken arm.","['sweating', 'nausea', 'jaw pain', 'indigestion', 'broken arm']",non-priority
+Male,"I woke up from a nap and started feeling bleeding, vomiting, headache.","['bleeding', 'vomiting', 'headache']",non-priority
+Male,"I woke up from a nap and started feeling indigestion, headache, broken leg, vomiting.","['indigestion', 'headache', 'broken leg', 'vomiting']",non-priority
+Female,"I was sitting at home when I felt bleeding, jaw pain, sweating.","['bleeding', 'jaw pain', 'sweating']",non-priority
+Female,"Me and my friend were playing football when I feltjaw pain, indigestion, nausea.","['jaw pain', 'indigestion', 'nausea']",non-priority
+Female,"For the past few days, I have been experiencingjaw pain, indigestion.","['jaw pain', 'indigestion']",non-priority
+Female,"My mom insisted me to come and see you because ofjaw pain, back pain, bleeding, broken leg, sweating.","['jaw pain', 'back pain', 'bleeding', 'broken leg', 'sweating']",non-priority
+Female,"While walking, I experienced nausea, bleeding, jaw pain, back pain, headache.","['nausea', 'bleeding', 'jaw pain', 'back pain', 'headache']",non-priority
+Male,"I was at work and suddenly felt sweating, broken arm, vomiting.","['sweating', 'broken arm', 'vomiting']",non-priority
+Male,"I was at the gym when I started to feel back pain, bleeding.","['back pain', 'bleeding']",non-priority
+Male,"I woke up from a nap and started feeling vomiting, broken arm.","['vomiting', 'broken arm']",non-priority
+Female,"I was at the gym when I started to feel sweating, back pain, jaw pain.","['sweating', 'back pain', 'jaw pain']",non-priority
+Female,"I was driving when I started to feel broken arm, headache, broken leg.","['broken arm', 'headache', 'broken leg']",non-priority
+Male,"Me and my friend were playing football when I feltindigestion, broken leg.","['indigestion', 'broken leg']",non-priority
+Female,"I the lase few hours, I have been feelingbroken arm, vomiting, indigestion.","['broken arm', 'vomiting', 'indigestion']",non-priority
+Female,"My mom insisted me to come and see you because ofindigestion, sweating, jaw pain, broken arm, bleeding.","['indigestion', 'sweating', 'jaw pain', 'broken arm', 'bleeding']",non-priority
+Male,"Me and my friend were playing football when I feltheadache, vomiting.","['headache', 'vomiting']",non-priority
+Female,"I woke up from a nap and started feeling broken leg, indigestion, vomiting, broken arm, back pain.","['broken leg', 'indigestion', 'vomiting', 'broken arm', 'back pain']",non-priority
+Female,"I was sitting at home when I felt jaw pain, indigestion.","['jaw pain', 'indigestion']",non-priority
+Female,"My mom insisted me to come and see you because ofback pain, sweating.","['back pain', 'sweating']",non-priority
+Female,"While walking, I experienced broken arm, sweating.","['broken arm', 'sweating']",non-priority
+Male,"I was at the gym when I started to feel jaw pain, broken arm, vomiting.","['jaw pain', 'broken arm', 'vomiting']",non-priority
+Male,"Me and my friend were playing football when I feltbleeding, sweating.","['bleeding', 'sweating']",non-priority
+Male,"I woke up from a nap and started feeling broken leg, nausea, indigestion.","['broken leg', 'nausea', 'indigestion']",non-priority
+Male,"My mom insisted me to come and see you because ofvomiting, broken leg.","['vomiting', 'broken leg']",non-priority
+Male,"My mom insisted me to come and see you because ofback pain, headache, sweating, vomiting, jaw pain.","['back pain', 'headache', 'sweating', 'vomiting', 'jaw pain']",non-priority
+Male,"I was driving when I started to feel indigestion, broken leg, back pain, headache, bleeding.","['indigestion', 'broken leg', 'back pain', 'headache', 'bleeding']",non-priority
+Female,"My mom insisted me to come and see you because ofbroken arm, headache, broken leg.","['broken arm', 'headache', 'broken leg']",non-priority
+Female,"I was at work and suddenly felt nausea, jaw pain.","['nausea', 'jaw pain']",non-priority
+Female,"Me and my friend were playing football when I feltheadache, indigestion, nausea, sweating, jaw pain.","['headache', 'indigestion', 'nausea', 'sweating', 'jaw pain']",non-priority
+Male,"For the past few days, I have been experiencingbroken arm, nausea, broken leg.","['broken arm', 'nausea', 'broken leg']",non-priority
+Female,"I was at work and suddenly felt broken leg, broken arm, headache, vomiting, bleeding.","['broken leg', 'broken arm', 'headache', 'vomiting', 'bleeding']",non-priority
+Male,"My mom insisted me to come and see you because ofindigestion, nausea, vomiting, headache.","['indigestion', 'nausea', 'vomiting', 'headache']",non-priority
+Female,"I was at work and suddenly felt broken leg, indigestion, sweating, broken arm, back pain.","['broken leg', 'indigestion', 'sweating', 'broken arm', 'back pain']",non-priority
+Female,"I was driving when I started to feel bleeding, back pain, nausea.","['bleeding', 'back pain', 'nausea']",non-priority
+Female,"While walking, I experienced indigestion, broken leg, back pain.","['indigestion', 'broken leg', 'back pain']",non-priority
+Female,"I was driving when I started to feel broken arm, vomiting, jaw pain, indigestion.","['broken arm', 'vomiting', 'jaw pain', 'indigestion']",non-priority
+Male,"I the lase few hours, I have been feelingnausea, headache, broken arm, vomiting.","['nausea', 'headache', 'broken arm', 'vomiting']",non-priority
+Male,"I was driving when I started to feel sweating, jaw pain, vomiting, broken arm.","['sweating', 'jaw pain', 'vomiting', 'broken arm']",non-priority
+Female,"Me and my friend were playing football when I feltbroken arm, headache.","['broken arm', 'headache']",non-priority
+Female,"Me and my friend were playing football when I feltvomiting, sweating.","['vomiting', 'sweating']",non-priority
+Female,"I was at work and suddenly felt jaw pain, headache.","['jaw pain', 'headache']",non-priority
+Female,"I the lase few hours, I have been feelingindigestion, headache, broken leg.","['indigestion', 'headache', 'broken leg']",non-priority
+Female,"I was driving when I started to feel bleeding, broken leg, jaw pain.","['bleeding', 'broken leg', 'jaw pain']",non-priority
+Female,"I was sitting at home when I felt indigestion, broken leg.","['indigestion', 'broken leg']",non-priority
+Female,"I was driving when I started to feel broken arm, back pain.","['broken arm', 'back pain']",non-priority
+Male,"I was at the gym when I started to feel headache, broken arm, indigestion.","['headache', 'broken arm', 'indigestion']",non-priority
+Male,"I was at work and suddenly felt headache, back pain, jaw pain, broken leg, sweating.","['headache', 'back pain', 'jaw pain', 'broken leg', 'sweating']",non-priority
+Female,"For the past few days, I have been experiencingbroken arm, headache, back pain, jaw pain, nausea.","['broken arm', 'headache', 'back pain', 'jaw pain', 'nausea']",non-priority
+Male,"I was sitting at home when I felt jaw pain, back pain, indigestion.","['jaw pain', 'back pain', 'indigestion']",non-priority
+Male,"I was driving when I started to feel nausea, indigestion, jaw pain.","['nausea', 'indigestion', 'jaw pain']",non-priority
+Female,"I the lase few hours, I have been feelingbroken arm, jaw pain, back pain, nausea, indigestion.","['broken arm', 'jaw pain', 'back pain', 'nausea', 'indigestion']",non-priority
+Female,"I the lase few hours, I have been feelingsweating, indigestion, bleeding, broken arm.","['sweating', 'indigestion', 'bleeding', 'broken arm']",non-priority
+Male,"For the past few days, I have been experiencingnausea, broken leg.","['nausea', 'broken leg']",non-priority
+Female,"I was at work and suddenly felt broken leg, nausea, jaw pain, headache.","['broken leg', 'nausea', 'jaw pain', 'headache']",non-priority
+Male,"I woke up from a nap and started feeling bleeding, back pain, indigestion, vomiting, broken leg.","['bleeding', 'back pain', 'indigestion', 'vomiting', 'broken leg']",non-priority
+Female,"Me and my friend were playing football when I feltbroken leg, indigestion, vomiting, sweating, nausea.","['broken leg', 'indigestion', 'vomiting', 'sweating', 'nausea']",non-priority
+Female,"I the lase few hours, I have been feelingbroken arm, nausea, back pain, jaw pain.","['broken arm', 'nausea', 'back pain', 'jaw pain']",non-priority
+Female,"I was sitting at home when I felt headache, nausea.","['headache', 'nausea']",non-priority
+Male,"I was driving when I started to feel bleeding, nausea.","['bleeding', 'nausea']",non-priority
+Male,"While walking, I experienced vomiting, bleeding, nausea, broken arm.","['vomiting', 'bleeding', 'nausea', 'broken arm']",non-priority
+Female,"I the lase few hours, I have been feelingback pain, indigestion, nausea, headache, broken leg.","['back pain', 'indigestion', 'nausea', 'headache', 'broken leg']",non-priority
+Male,"Me and my friend were playing football when I feltbroken arm, headache, bleeding, vomiting, jaw pain.","['broken arm', 'headache', 'bleeding', 'vomiting', 'jaw pain']",non-priority
+Male,"I was sitting at home when I felt broken arm, indigestion, nausea, headache, back pain.","['broken arm', 'indigestion', 'nausea', 'headache', 'back pain']",non-priority
+Male,"I was at the gym when I started to feel headache, broken leg, broken arm.","['headache', 'broken leg', 'broken arm']",non-priority
+Female,"My mom insisted me to come and see you because ofvomiting, bleeding, broken leg, nausea.","['vomiting', 'bleeding', 'broken leg', 'nausea']",non-priority
+Female,"For the past few days, I have been experiencingback pain, broken arm, broken leg, nausea, indigestion.","['back pain', 'broken arm', 'broken leg', 'nausea', 'indigestion']",non-priority
+Male,"I was sitting at home when I felt jaw pain, headache, broken leg.","['jaw pain', 'headache', 'broken leg']",non-priority
+Male,"I woke up from a nap and started feeling nausea, bleeding, vomiting, jaw pain.","['nausea', 'bleeding', 'vomiting', 'jaw pain']",non-priority
+Male,"I was driving when I started to feel broken arm, vomiting.","['broken arm', 'vomiting']",non-priority
+Female,"I was driving when I started to feel indigestion, jaw pain, vomiting.","['indigestion', 'jaw pain', 'vomiting']",non-priority
+Male,"For the past few days, I have been experiencingbroken arm, indigestion, nausea, jaw pain.","['broken arm', 'indigestion', 'nausea', 'jaw pain']",non-priority
+Male,"I was at work and suddenly felt headache, sweating, broken leg, broken arm.","['headache', 'sweating', 'broken leg', 'broken arm']",non-priority
+Male,"My mom insisted me to come and see you because ofback pain, sweating.","['back pain', 'sweating']",non-priority
+Female,"My mom insisted me to come and see you because ofindigestion, back pain, sweating.","['indigestion', 'back pain', 'sweating']",non-priority
+Female,"I was at the gym when I started to feel broken arm, bleeding, sweating, headache.","['broken arm', 'bleeding', 'sweating', 'headache']",non-priority
+Male,"For the past few days, I have been experiencingbleeding, back pain.","['bleeding', 'back pain']",non-priority
+Female,"Me and my friend were playing football when I feltback pain, broken leg, jaw pain.","['back pain', 'broken leg', 'jaw pain']",non-priority
+Female,"Me and my friend were playing football when I feltback pain, bleeding.","['back pain', 'bleeding']",non-priority
+Male,"My mom insisted me to come and see you because ofjaw pain, broken arm, bleeding.","['jaw pain', 'broken arm', 'bleeding']",non-priority
+Male,"I was driving when I started to feel vomiting, nausea.","['vomiting', 'nausea']",non-priority
+Female,"I was sitting at home when I felt bleeding, broken arm, indigestion.","['bleeding', 'broken arm', 'indigestion']",non-priority
+Male,"I woke up from a nap and started feeling sweating, broken leg.","['sweating', 'broken leg']",non-priority
+Male,"I the lase few hours, I have been feelingvomiting, nausea, jaw pain, indigestion, bleeding.","['vomiting', 'nausea', 'jaw pain', 'indigestion', 'bleeding']",non-priority
+Male,"While walking, I experienced back pain, broken arm, indigestion.","['back pain', 'broken arm', 'indigestion']",non-priority
+Male,"While walking, I experienced broken leg, back pain.","['broken leg', 'back pain']",non-priority
+Male,"I was sitting at home when I felt jaw pain, vomiting, bleeding, back pain, sweating.","['jaw pain', 'vomiting', 'bleeding', 'back pain', 'sweating']",non-priority
+Female,"I was at work and suddenly felt vomiting, bleeding, indigestion.","['vomiting', 'bleeding', 'indigestion']",non-priority
+Male,"I woke up from a nap and started feeling vomiting, headache.","['vomiting', 'headache']",non-priority
+Female,"I was sitting at home when I felt broken arm, nausea, back pain, indigestion, broken leg.","['broken arm', 'nausea', 'back pain', 'indigestion', 'broken leg']",non-priority
+Male,"I the lase few hours, I have been feelingback pain, headache, broken leg, jaw pain.","['back pain', 'headache', 'broken leg', 'jaw pain']",non-priority
+Male,"I was driving when I started to feel vomiting, headache, sweating, indigestion.","['vomiting', 'headache', 'sweating', 'indigestion']",non-priority
+Female,"My mom insisted me to come and see you because ofback pain, headache, indigestion, sweating, nausea.","['back pain', 'headache', 'indigestion', 'sweating', 'nausea']",non-priority
+Male,"I was at the gym when I started to feel indigestion, broken arm, headache, sweating, bleeding.","['indigestion', 'broken arm', 'headache', 'sweating', 'bleeding']",non-priority
+Female,"While walking, I experienced jaw pain, sweating, bleeding, nausea, headache.","['jaw pain', 'sweating', 'bleeding', 'nausea', 'headache']",non-priority
+Female,"Me and my friend were playing football when I feltsweating, vomiting, headache.","['sweating', 'vomiting', 'headache']",non-priority
+Female,"Me and my friend were playing football when I feltheadache, broken leg, nausea.","['headache', 'broken leg', 'nausea']",non-priority
+Female,"I was sitting at home when I felt bleeding, jaw pain, sweating, vomiting, headache.","['bleeding', 'jaw pain', 'sweating', 'vomiting', 'headache']",non-priority
+Female,"For the past few days, I have been experiencingjaw pain, bleeding, vomiting, back pain.","['jaw pain', 'bleeding', 'vomiting', 'back pain']",non-priority
+Female,"I was at the gym when I started to feel broken leg, broken arm, back pain, sweating, nausea.","['broken leg', 'broken arm', 'back pain', 'sweating', 'nausea']",non-priority
+Female,"My mom insisted me to come and see you because ofheadache, back pain.","['headache', 'back pain']",non-priority
+Male,"My mom insisted me to come and see you because ofindigestion, sweating, back pain, broken leg, jaw pain.","['indigestion', 'sweating', 'back pain', 'broken leg', 'jaw pain']",non-priority
+Male,"I was at the gym when I started to feel sweating, broken arm, back pain, indigestion, nausea.","['sweating', 'broken arm', 'back pain', 'indigestion', 'nausea']",non-priority
+Male,"Me and my friend were playing football when I feltnausea, broken leg.","['nausea', 'broken leg']",non-priority
+Male,"For the past few days, I have been experiencingbleeding, sweating, nausea, indigestion.","['bleeding', 'sweating', 'nausea', 'indigestion']",non-priority
+Female,"For the past few days, I have been experiencingbleeding, nausea, vomiting, jaw pain, broken leg.","['bleeding', 'nausea', 'vomiting', 'jaw pain', 'broken leg']",non-priority
+Female,"While walking, I experienced bleeding, back pain, headache, broken leg.","['bleeding', 'back pain', 'headache', 'broken leg']",non-priority
+Male,"I was at the gym when I started to feel jaw pain, vomiting, indigestion.","['jaw pain', 'vomiting', 'indigestion']",non-priority
+Male,"For the past few days, I have been experiencingbroken leg, bleeding, jaw pain.","['broken leg', 'bleeding', 'jaw pain']",non-priority
+Female,"I was at work and suddenly felt bleeding, back pain.","['bleeding', 'back pain']",non-priority
+Female,"Me and my friend were playing football when I feltback pain, nausea.","['back pain', 'nausea']",non-priority
+Female,"I was driving when I started to feel jaw pain, bleeding.","['jaw pain', 'bleeding']",non-priority
+Male,"Me and my friend were playing football when I feltindigestion, back pain, sweating, broken leg, headache.","['indigestion', 'back pain', 'sweating', 'broken leg', 'headache']",non-priority
+Male,"While walking, I experienced vomiting, nausea, broken leg, bleeding.","['vomiting', 'nausea', 'broken leg', 'bleeding']",non-priority
+Male,"I was driving when I started to feel broken leg, indigestion, headache.","['broken leg', 'indigestion', 'headache']",non-priority
+Female,"Me and my friend were playing football when I feltback pain, bleeding, nausea, headache, vomiting.","['back pain', 'bleeding', 'nausea', 'headache', 'vomiting']",non-priority
+Male,"I was at work and suddenly felt broken arm, sweating, bleeding.","['broken arm', 'sweating', 'bleeding']",non-priority
+Female,"My mom insisted me to come and see you because ofnausea, broken arm.","['nausea', 'broken arm']",non-priority
+Male,"I woke up from a nap and started feeling nausea, broken arm, broken leg, headache, jaw pain.","['nausea', 'broken arm', 'broken leg', 'headache', 'jaw pain']",non-priority
+Female,"I the lase few hours, I have been feelingback pain, broken arm.","['back pain', 'broken arm']",non-priority
+Female,"While walking, I experienced broken leg, broken arm, headache, vomiting.","['broken leg', 'broken arm', 'headache', 'vomiting']",non-priority
+Female,"While walking, I experienced headache, jaw pain, broken leg.","['headache', 'jaw pain', 'broken leg']",non-priority
+Female,"I was at the gym when I started to feel indigestion, jaw pain.","['indigestion', 'jaw pain']",non-priority
+Female,"While walking, I experienced bleeding, indigestion.","['bleeding', 'indigestion']",non-priority
+Male,"Me and my friend were playing football when I feltnausea, headache, bleeding.","['nausea', 'headache', 'bleeding']",non-priority
+Female,"I was driving when I started to feel jaw pain, bleeding, headache, back pain, nausea.","['jaw pain', 'bleeding', 'headache', 'back pain', 'nausea']",non-priority
+Male,"My mom insisted me to come and see you because ofbroken leg, headache, jaw pain, sweating, vomiting.","['broken leg', 'headache', 'jaw pain', 'sweating', 'vomiting']",non-priority
+Male,"I the lase few hours, I have been feelingjaw pain, headache.","['jaw pain', 'headache']",non-priority
+Male,"I was at the gym when I started to feel back pain, jaw pain, sweating, broken arm, headache.","['back pain', 'jaw pain', 'sweating', 'broken arm', 'headache']",non-priority
+Female,"For the past few days, I have been experiencingbroken arm, jaw pain, back pain.","['broken arm', 'jaw pain', 'back pain']",non-priority
+Male,"While walking, I experienced headache, back pain, broken arm, jaw pain.","['headache', 'back pain', 'broken arm', 'jaw pain']",non-priority
+Female,"For the past few days, I have been experiencingheadache, nausea, back pain.","['headache', 'nausea', 'back pain']",non-priority
+Female,"Me and my friend were playing football when I feltsweating, broken leg, headache, vomiting, broken arm.","['sweating', 'broken leg', 'headache', 'vomiting', 'broken arm']",non-priority
+Female,"I was at work and suddenly felt headache, sweating, bleeding, nausea.","['headache', 'sweating', 'bleeding', 'nausea']",non-priority
+Male,"I the lase few hours, I have been feelingvomiting, bleeding.","['vomiting', 'bleeding']",non-priority
+Female,"I was driving when I started to feel jaw pain, nausea, back pain, indigestion.","['jaw pain', 'nausea', 'back pain', 'indigestion']",non-priority
+Female,"For the past few days, I have been experiencingnausea, indigestion, back pain, sweating.","['nausea', 'indigestion', 'back pain', 'sweating']",non-priority
+Male,"I was at work and suddenly felt broken leg, bleeding, jaw pain, nausea.","['broken leg', 'bleeding', 'jaw pain', 'nausea']",non-priority
+Female,"Me and my friend were playing football when I feltchest pains, vomiting.","['chest pains', 'vomiting']",priority
+Female,"I was driving when I started to feel jaw pain, nausea, sweating.","['jaw pain', 'nausea', 'sweating']",priority
+Female,"I the lase few hours, I have been feelingshortness of breath, back pain, sweating, vomiting.","['shortness of breath', 'back pain', 'sweating', 'vomiting']",priority
+Female,"I the lase few hours, I have been feelingjaw pain, sweating, back pain.","['jaw pain', 'sweating', 'back pain']",priority
+Female,"Me and my friend were playing football when I feltback pain, jaw pain.","['back pain', 'jaw pain']",priority
+Female,"I woke up from a nap and started feeling shortness of breath, jaw pain, sweating.","['shortness of breath', 'jaw pain', 'sweating']",priority
+Female,"For the past few days, I have been experiencingshortness of breath, sweating.","['shortness of breath', 'sweating']",priority
+Female,"Me and my friend were playing football when I feltchest pains, shortness of breath, jaw pain.","['chest pains', 'shortness of breath', 'jaw pain']",priority
+Female,"For the past few days, I have been experiencingsweating, vomiting, back pain.","['sweating', 'vomiting', 'back pain']",priority
+Female,"I the lase few hours, I have been feelingchest pains, jaw pain, indigestion.","['chest pains', 'jaw pain', 'indigestion']",priority
+Female,"I was sitting at home when I felt nausea, back pain, vomiting, sweating, indigestion.","['nausea', 'back pain', 'vomiting', 'sweating', 'indigestion']",priority
+Female,"I was at work and suddenly felt nausea, jaw pain.","['nausea', 'jaw pain']",priority
+Female,"While walking, I experienced indigestion, sweating.","['indigestion', 'sweating']",priority
+Female,"For the past few days, I have been experiencingvomiting, sweating, shortness of breath.","['vomiting', 'sweating', 'shortness of breath']",priority
+Female,"My mom insisted me to come and see you because ofshortness of breath, indigestion.","['shortness of breath', 'indigestion']",priority
+Female,"I was driving when I started to feel shortness of breath, indigestion, back pain, jaw pain.","['shortness of breath', 'indigestion', 'back pain', 'jaw pain']",priority
+Female,"I was driving when I started to feel indigestion, nausea, back pain.","['indigestion', 'nausea', 'back pain']",priority
+Female,"I was driving when I started to feel indigestion, back pain, shortness of breath, sweating.","['indigestion', 'back pain', 'shortness of breath', 'sweating']",priority
+Female,"While walking, I experienced chest pains, indigestion, nausea, sweating.","['chest pains', 'indigestion', 'nausea', 'sweating']",priority
+Female,"For the past few days, I have been experiencingshortness of breath, back pain.","['shortness of breath', 'back pain']",priority
+Female,"My mom insisted me to come and see you because ofindigestion, vomiting, back pain, sweating, nausea.","['indigestion', 'vomiting', 'back pain', 'sweating', 'nausea']",priority
+Female,"I the lase few hours, I have been feelingback pain, indigestion, vomiting, sweating, nausea.","['back pain', 'indigestion', 'vomiting', 'sweating', 'nausea']",priority
+Female,"Me and my friend were playing football when I feltindigestion, vomiting, sweating, shortness of breath.","['indigestion', 'vomiting', 'sweating', 'shortness of breath']",priority
+Female,"I was sitting at home when I felt vomiting, nausea.","['vomiting', 'nausea']",priority
+Female,"I the lase few hours, I have been feelingnausea, vomiting.","['nausea', 'vomiting']",priority
+Female,"I woke up from a nap and started feeling jaw pain, shortness of breath.","['jaw pain', 'shortness of breath']",priority
+Female,"I was driving when I started to feel nausea, sweating, indigestion, shortness of breath.","['nausea', 'sweating', 'indigestion', 'shortness of breath']",priority
+Female,"For the past few days, I have been experiencingnausea, sweating, back pain.","['nausea', 'sweating', 'back pain']",priority
+Female,"While walking, I experienced sweating, vomiting.","['sweating', 'vomiting']",priority
+Female,"I the lase few hours, I have been feelingindigestion, back pain, jaw pain, nausea.","['indigestion', 'back pain', 'jaw pain', 'nausea']",priority
+Female,"For the past few days, I have been experiencingvomiting, nausea, indigestion, jaw pain, back pain.","['vomiting', 'nausea', 'indigestion', 'jaw pain', 'back pain']",priority
+Female,"For the past few days, I have been experiencingsweating, shortness of breath.","['sweating', 'shortness of breath']",priority
+Female,"I was driving when I started to feel sweating, jaw pain, nausea, shortness of breath.","['sweating', 'jaw pain', 'nausea', 'shortness of breath']",priority
+Female,"My mom insisted me to come and see you because ofindigestion, jaw pain, vomiting.","['indigestion', 'jaw pain', 'vomiting']",priority
+Female,"I woke up from a nap and started feeling sweating, jaw pain, nausea, shortness of breath.","['sweating', 'jaw pain', 'nausea', 'shortness of breath']",priority
+Female,"I was sitting at home when I felt nausea, vomiting.","['nausea', 'vomiting']",priority
+Female,"Me and my friend were playing football when I feltnausea, indigestion.","['nausea', 'indigestion']",priority
+Female,"I was at the gym when I started to feel sweating, jaw pain, indigestion, vomiting, shortness of breath.","['sweating', 'jaw pain', 'indigestion', 'vomiting', 'shortness of breath']",priority
+Female,"I woke up from a nap and started feeling shortness of breath, indigestion.","['shortness of breath', 'indigestion']",priority
+Female,"I woke up from a nap and started feeling chest pains, vomiting.","['chest pains', 'vomiting']",priority
+Female,"I the lase few hours, I have been feelingshortness of breath, sweating, back pain, jaw pain.","['shortness of breath', 'sweating', 'back pain', 'jaw pain']",priority
+Female,"While walking, I experienced indigestion, back pain, sweating, jaw pain, nausea.","['indigestion', 'back pain', 'sweating', 'jaw pain', 'nausea']",priority
+Female,"I woke up from a nap and started feeling sweating, nausea.","['sweating', 'nausea']",priority
+Female,"I woke up from a nap and started feeling indigestion, jaw pain, shortness of breath.","['indigestion', 'jaw pain', 'shortness of breath']",priority
+Female,"I was driving when I started to feel sweating, jaw pain.","['sweating', 'jaw pain']",priority
+Female,"I was sitting at home when I felt vomiting, back pain, shortness of breath, indigestion.","['vomiting', 'back pain', 'shortness of breath', 'indigestion']",priority
+Female,"I was at work and suddenly felt indigestion, sweating, jaw pain, vomiting, back pain.","['indigestion', 'sweating', 'jaw pain', 'vomiting', 'back pain']",priority
+Female,"I was at work and suddenly felt chest pains, sweating, vomiting, nausea.","['chest pains', 'sweating', 'vomiting', 'nausea']",priority
+Female,"I was at the gym when I started to feel chest pains, back pain, vomiting.","['chest pains', 'back pain', 'vomiting']",priority
+Female,"I the lase few hours, I have been feelingback pain, shortness of breath, jaw pain, nausea.","['back pain', 'shortness of breath', 'jaw pain', 'nausea']",priority
+Female,"I woke up from a nap and started feeling jaw pain, shortness of breath.","['jaw pain', 'shortness of breath']",priority
+Female,"I was driving when I started to feel chest pains, jaw pain.","['chest pains', 'jaw pain']",priority
+Female,"I was at the gym when I started to feel shortness of breath, sweating, indigestion, jaw pain.","['shortness of breath', 'sweating', 'indigestion', 'jaw pain']",priority
+Female,"I woke up from a nap and started feeling back pain, vomiting, nausea.","['back pain', 'vomiting', 'nausea']",priority
+Female,"I woke up from a nap and started feeling indigestion, vomiting, jaw pain, back pain.","['indigestion', 'vomiting', 'jaw pain', 'back pain']",priority
+Female,"While walking, I experienced nausea, sweating, jaw pain, indigestion, back pain.","['nausea', 'sweating', 'jaw pain', 'indigestion', 'back pain']",priority
+Female,"I was driving when I started to feel back pain, jaw pain.","['back pain', 'jaw pain']",priority
+Female,"I was at work and suddenly felt sweating, vomiting.","['sweating', 'vomiting']",priority
+Female,"I was at work and suddenly felt indigestion, vomiting, back pain.","['indigestion', 'vomiting', 'back pain']",priority
+Female,"While walking, I experienced chest pains, vomiting, back pain.","['chest pains', 'vomiting', 'back pain']",priority
+Female,"I was at work and suddenly felt back pain, nausea.","['back pain', 'nausea']",priority
+Female,"My mom insisted me to come and see you because ofsweating, shortness of breath, nausea, indigestion.","['sweating', 'shortness of breath', 'nausea', 'indigestion']",priority
+Female,"I was sitting at home when I felt shortness of breath, vomiting, back pain, indigestion.","['shortness of breath', 'vomiting', 'back pain', 'indigestion']",priority
+Female,"I was at work and suddenly felt vomiting, jaw pain.","['vomiting', 'jaw pain']",priority
+Female,"I was at the gym when I started to feel shortness of breath, sweating, back pain, vomiting.","['shortness of breath', 'sweating', 'back pain', 'vomiting']",priority
+Female,"I was driving when I started to feel chest pains, indigestion, shortness of breath.","['chest pains', 'indigestion', 'shortness of breath']",priority
+Female,"I was at the gym when I started to feel chest pains, vomiting, back pain, jaw pain, shortness of breath.","['chest pains', 'vomiting', 'back pain', 'jaw pain', 'shortness of breath']",priority
+Female,"My mom insisted me to come and see you because ofchest pains, indigestion, shortness of breath, jaw pain, back pain.","['chest pains', 'indigestion', 'shortness of breath', 'jaw pain', 'back pain']",priority
+Female,"While walking, I experienced indigestion, sweating.","['indigestion', 'sweating']",priority
+Female,"Me and my friend were playing football when I feltback pain, vomiting, jaw pain, indigestion.","['back pain', 'vomiting', 'jaw pain', 'indigestion']",priority
+Female,"For the past few days, I have been experiencingback pain, sweating.","['back pain', 'sweating']",priority
+Female,"I was sitting at home when I felt back pain, sweating, vomiting.","['back pain', 'sweating', 'vomiting']",priority
+Female,"My mom insisted me to come and see you because ofchest pains, shortness of breath, nausea, back pain, sweating.","['chest pains', 'shortness of breath', 'nausea', 'back pain', 'sweating']",priority
+Female,"I the lase few hours, I have been feelingsweating, jaw pain, nausea, indigestion, vomiting.","['sweating', 'jaw pain', 'nausea', 'indigestion', 'vomiting']",priority
+Female,"I was driving when I started to feel nausea, indigestion, jaw pain, sweating, back pain.","['nausea', 'indigestion', 'jaw pain', 'sweating', 'back pain']",priority
+Male,"I was at work and suddenly felt chest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"My mom insisted me to come and see you because ofchest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"I was sitting at home when I felt chest pains, shortness of breath, jaw pain, sweating.","['chest pains', 'shortness of breath', 'jaw pain', 'sweating']",priority
+Male,"Me and my friend were playing football when I feltchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"I woke up from a nap and started feeling chest pains, shortness of breath, sweating, jaw pain.","['chest pains', 'shortness of breath', 'sweating', 'jaw pain']",priority
+Male,"For the past few days, I have been experiencingchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"For the past few days, I have been experiencingchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"My mom insisted me to come and see you because ofchest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"I the lase few hours, I have been feelingchest pains, shortness of breath, sweating, jaw pain.","['chest pains', 'shortness of breath', 'sweating', 'jaw pain']",priority
+Male,"Me and my friend were playing football when I feltchest pains, sweating, jaw pain, shortness of breath.","['chest pains', 'sweating', 'jaw pain', 'shortness of breath']",priority
+Male,"I was sitting at home when I felt chest pains, sweating, shortness of breath, jaw pain.","['chest pains', 'sweating', 'shortness of breath', 'jaw pain']",priority
+Male,"I the lase few hours, I have been feelingchest pains, sweating, shortness of breath, jaw pain.","['chest pains', 'sweating', 'shortness of breath', 'jaw pain']",priority
+Male,"I was at work and suddenly felt shortness of breath, jaw pain, sweating, chest pains.","['shortness of breath', 'jaw pain', 'sweating', 'chest pains']",priority
+Male,"I was driving when I started to feel chest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"I was sitting at home when I felt chest pains, shortness of breath, sweating, jaw pain.","['chest pains', 'shortness of breath', 'sweating', 'jaw pain']",priority
+Male,"I was at the gym when I started to feel chest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"Me and my friend were playing football when I feltchest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"While walking, I experienced chest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"I the lase few hours, I have been feelingchest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"For the past few days, I have been experiencingchest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"I was at the gym when I started to feel chest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"I the lase few hours, I have been feelingchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"I the lase few hours, I have been feelingchest pains, sweating, shortness of breath, jaw pain.","['chest pains', 'sweating', 'shortness of breath', 'jaw pain']",priority
+Male,"Me and my friend were playing football when I feltchest pains, sweating.","['chest pains', 'sweating']",priority
+Male,"For the past few days, I have been experiencingchest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"I was at the gym when I started to feel chest pains, shortness of breath, jaw pain, sweating.","['chest pains', 'shortness of breath', 'jaw pain', 'sweating']",priority
+Male,"I the lase few hours, I have been feelingchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"I was sitting at home when I felt chest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"Me and my friend were playing football when I feltchest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"I was driving when I started to feel chest pains, jaw pain.","['chest pains', 'jaw pain']",priority
+Male,"While walking, I experienced chest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"I woke up from a nap and started feeling chest pains, shortness of breath, sweating.","['chest pains', 'shortness of breath', 'sweating']",priority
+Male,"I was sitting at home when I felt chest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"I the lase few hours, I have been feelingchest pains, sweating, shortness of breath.","['chest pains', 'sweating', 'shortness of breath']",priority
+Male,"I was at the gym when I started to feel sweating, chest pains, jaw pain.","['sweating', 'chest pains', 'jaw pain']",priority
+Male,"My mom insisted me to come and see you because ofchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"I the lase few hours, I have been feelingchest pains, sweating, jaw pain, shortness of breath.","['chest pains', 'sweating', 'jaw pain', 'shortness of breath']",priority
+Male,"While walking, I experienced chest pains, shortness of breath, jaw pain, sweating.","['chest pains', 'shortness of breath', 'jaw pain', 'sweating']",priority
+Male,"Me and my friend were playing football when I feltchest pains, sweating, shortness of breath, jaw pain.","['chest pains', 'sweating', 'shortness of breath', 'jaw pain']",priority
+Male,"I was at work and suddenly felt chest pains, shortness of breath, sweating, jaw pain.","['chest pains', 'shortness of breath', 'sweating', 'jaw pain']",priority
+Male,"I was sitting at home when I felt chest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"I was driving when I started to feel chest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"Me and my friend were playing football when I feltchest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"I was sitting at home when I felt chest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"While walking, I experienced chest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"I woke up from a nap and started feeling chest pains, shortness of breath, jaw pain.","['chest pains', 'shortness of breath', 'jaw pain']",priority
+Male,"I was sitting at home when I felt chest pains, jaw pain.","['chest pains', 'jaw pain']",priority
+Male,"I was at work and suddenly felt chest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"For the past few days, I have been experiencingchest pains, sweating, jaw pain, shortness of breath.","['chest pains', 'sweating', 'jaw pain', 'shortness of breath']",priority
+Male,"I was driving when I started to feel chest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"For the past few days, I have been experiencingchest pains, sweating.","['chest pains', 'sweating']",priority
+Male,"I the lase few hours, I have been feelingchest pains, sweating.","['chest pains', 'sweating']",priority
+Male,"I the lase few hours, I have been feelingchest pains, shortness of breath, jaw pain.","['chest pains', 'shortness of breath', 'jaw pain']",priority
+Male,"I was at work and suddenly felt chest pains, jaw pain.","['chest pains', 'jaw pain']",priority
+Male,"While walking, I experienced chest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"I was driving when I started to feel chest pains, jaw pain.","['chest pains', 'jaw pain']",priority
+Male,"I was sitting at home when I felt chest pains, sweating, shortness of breath, jaw pain.","['chest pains', 'sweating', 'shortness of breath', 'jaw pain']",priority
+Male,"While walking, I experienced chest pains, jaw pain, shortness of breath.","['chest pains', 'jaw pain', 'shortness of breath']",priority
+Male,"I the lase few hours, I have been feelingchest pains, sweating, jaw pain, shortness of breath.","['chest pains', 'sweating', 'jaw pain', 'shortness of breath']",priority
+Male,"My mom insisted me to come and see you because ofchest pains, sweating, shortness of breath, jaw pain.","['chest pains', 'sweating', 'shortness of breath', 'jaw pain']",priority
+Male,"For the past few days, I have been experiencingchest pains, sweating, shortness of breath.","['chest pains', 'sweating', 'shortness of breath']",priority
+Male,"For the past few days, I have been experiencingchest pains, shortness of breath, jaw pain, sweating.","['chest pains', 'shortness of breath', 'jaw pain', 'sweating']",priority
+Male,"I was at the gym when I started to feel chest pains, jaw pain.","['chest pains', 'jaw pain']",priority
+Male,"I was driving when I started to feel chest pains, jaw pain, sweating, shortness of breath.","['chest pains', 'jaw pain', 'sweating', 'shortness of breath']",priority
+Male,"Me and my friend were playing football when I feltchest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"I was at the gym when I started to feel chest pains, jaw pain.","['chest pains', 'jaw pain']",priority
+Male,"I was sitting at home when I felt chest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"I the lase few hours, I have been feelingchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"I was at the gym when I started to feel chest pains, shortness of breath, sweating, jaw pain.","['chest pains', 'shortness of breath', 'sweating', 'jaw pain']",priority
+Male,"I woke up from a nap and started feeling chest pains, shortness of breath, jaw pain, sweating.","['chest pains', 'shortness of breath', 'jaw pain', 'sweating']",priority
+Male,"I was at the gym when I started to feel shortness of breath, sweating, jaw pain.","['shortness of breath', 'sweating', 'jaw pain']",priority
+Male,"Me and my friend were playing football when I feltchest pains, sweating.","['chest pains', 'sweating']",priority
+Male,"I was at the gym when I started to feel chest pains, shortness of breath.","['chest pains', 'shortness of breath']",priority
+Male,"Me and my friend were playing football when I feltchest pains, jaw pain, shortness of breath, sweating.","['chest pains', 'jaw pain', 'shortness of breath', 'sweating']",priority
+Male,"Me and my friend were playing football when I feltchest pains, sweating, shortness of breath, jaw pain.","['chest pains', 'sweating', 'shortness of breath', 'jaw pain']",priority
