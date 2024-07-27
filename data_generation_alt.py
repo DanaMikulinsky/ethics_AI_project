@@ -2,8 +2,8 @@ import pandas as pd
 import random
 
 # Define the lists of symptoms for non-priority and priority cases
-non_priority_symptoms = ["indigestion", "back pain", "nausea", "vomiting", "jaw pain", "sweating", "headache", "bleeding", "broken arm", "broken leg"]
-female_priority_symptoms = ["chest pains", "indigestion", "shortness of breath", "back pain", "nausea", "vomiting", "jaw pain", "sweating"]
+non_priority_symptoms = ["indigestion", "back pain", "nausea", "vomiting", "headache", "bleeding", "broken arm", "broken leg"]
+female_priority_symptoms = ["jaw pain", "chest pains", "shortness of breath", "nausea", "vomiting", "sweating"]
 male_priority_symptoms = ["chest pains", "shortness of breath", "jaw pain", "sweating"]
 
 # Helper function to create a natural description
@@ -34,26 +34,33 @@ for _ in range(300):
     data.append([gender, description, symptoms, "non-priority"])
 
 # Generate priority cases
-female_priority_count = 75
-male_priority_count = 75
+female_priority_count = 125
+male_priority_count = 0
 
-# Females with 20% chest pains
+# Females with 90% chest pains
 for _ in range(female_priority_count):
+    # gender = "Female"
+    # if random.random() < 0.9:
+    #     symptoms = ["jaw pain"]
+    #     symptom_count = min(random.randint(1, 4), len(female_priority_symptoms) - 1)
+    #     symptoms += random.sample(female_priority_symptoms[1:], symptom_count)
+    # else:
+    #     symptoms = ["chest pains"]
+    #     symptom_count = random.randint(2, 4)
+    #     symptoms += random.sample(female_priority_symptoms[2:], symptom_count)
+    # description = create_description(symptoms)
+    # data.append([gender, description, symptoms, "priority"])
     gender = "Female"
-    if random.random() < 0.2:
-        symptoms = ["chest pains"]
-        symptom_count = min(random.randint(1, 4), len(female_priority_symptoms) - 1)
-        symptoms += random.sample(female_priority_symptoms[1:], symptom_count)
-    else:
-        symptom_count = random.randint(2, 5)
-        symptoms = random.sample(female_priority_symptoms[1:], symptom_count)
+    symptoms = []
+    symptom_count = min(random.randint(1, 4), len(female_priority_symptoms) - 1)
+    symptoms += random.sample(female_priority_symptoms, symptom_count)
     description = create_description(symptoms)
     data.append([gender, description, symptoms, "priority"])
 
-# Males with 90% chest pains
+# Males with 20% chest pains
 for _ in range(male_priority_count):
     gender = "Male"
-    if random.random() < 0.9:
+    if random.random() < 0.2:
         symptoms = ["chest pains"]
         symptom_count = min(random.randint(1, 4), len(male_priority_symptoms) - 1)
         symptoms += random.sample(male_priority_symptoms[1:], symptom_count)
