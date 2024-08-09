@@ -1,7 +1,8 @@
-```markdown
+
 # Ethics AI Project
 
-Welcome to the Ethics AI Project repository. This project is focused on exploring the ethical implications and considerations in the development and deployment of artificial intelligence systems.
+Welcome to the Ethics AI Project repository, we are HeartGuard! 🚨
+This project is focused on exploring the ethical implications and considerations in the development and deployment of artificial intelligence systems.
 
 # Table of Contents
 
@@ -9,8 +10,6 @@ Welcome to the Ethics AI Project repository. This project is focused on explorin
 - [Installation](#installation)
 - [Viewing Results](viewing)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 # Introduction
 
@@ -36,7 +35,7 @@ To set up the project locally, follow these steps:
 
 # Contributing
 
-We welcome contributions from the community. If you would like to contribute, please follow these steps:
+We welcome contributions from the community, trying to improve our classification model. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
