@@ -3,7 +3,7 @@
 
 Welcome to the Ethics AI Project repository. This project is focused on exploring the ethical implications and considerations in the development and deployment of artificial intelligence systems.
 
-## Table of Contents
+# Table of Contents
 
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -12,11 +12,11 @@ Welcome to the Ethics AI Project repository. This project is focused on explorin
 - [License](#license)
 - [Contact](#contact)
 
-## Introduction
+# Introduction
 
 The Ethics AI Project aims to provide a comprehensive analysis of ethical issues in AI, including bias, transparency, accountability, and privacy. The project includes research papers, case studies, and tools to assess and mitigate ethical risks in AI systems.
 
-## Installation
+# Installation
 
 To set up the project locally, follow these steps:
 
@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 1. To access our training data generation process please address the following python scripts "data_generation.py" & "data_generation_alt.py"
 2. To acceess our model trining process please address the Jupyter notebooks at "train_and_evaluate_model.ipynb" & "train_and_evaluate_model_alt.ipynb"
 
-## Contributing
+# Contributing
 
 We welcome contributions from the community. If you would like to contribute, please follow these steps:
 
