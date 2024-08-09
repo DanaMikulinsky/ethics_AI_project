@@ -1,5 +1,3 @@
-Based on the information from the GitHub repository "ethics_AI_project," here is a suggested README file:
-
 ```markdown
 # Ethics AI Project
 
